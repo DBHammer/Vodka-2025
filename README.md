@@ -161,12 +161,12 @@ install.packages('dplyr')
 
 ## Star History
 
-<a href="https://star-history.com/#DBHammer/Vodka-Benchmark&Date">
+<a href="https://star-history.com/#DBHammer/Vodka-2025&Date">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DBHammer/Vodka-Benchmark&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DBHammer/Vodka-Benchmark&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DBHammer/Vodka-Benchmark&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DBHammer/Vodka-2025&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DBHammer/Vodka-2025&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DBHammer/Vodka-2025&type=Date" />
   </picture>
 
 
